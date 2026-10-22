@@ -1,0 +1,8 @@
+
+config/database.php
+.env
+.env.*
+!.env.example
+*.sql
+.DS_Store
+Thumbs.db
